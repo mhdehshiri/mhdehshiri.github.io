@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 吳健雄
+title: 
 
 # Name pronunciation (optional)
 name_pronunciation: Mahdi dehshiri
@@ -119,5 +119,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a master student at the Stanford AI Lab. his research interests include causality , mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a is a master student at the MLCM Lab. my research interests include causal structure learning , causal representation learning. 
 {style="text-align: justify;"}
