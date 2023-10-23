@@ -10,7 +10,7 @@ date: "2023-08-18"
 doi: "https://doi.org/10.1371/journal.pone.0289406"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2023-08-18"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
