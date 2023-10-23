@@ -31,10 +31,6 @@ featured: false
 # - name: ""
 #   url: ""
 url_pdf: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0289406
-url_code: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
