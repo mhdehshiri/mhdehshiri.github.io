@@ -34,17 +34,11 @@ featured: false
 # - name: ""
 #   url: ""
 url_pdf: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0289406
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
