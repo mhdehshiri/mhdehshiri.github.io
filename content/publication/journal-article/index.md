@@ -33,8 +33,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url_pdf: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0289406
 url_dataset: ''
 url_poster: ''
 url_project: ''
