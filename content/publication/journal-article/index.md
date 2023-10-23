@@ -23,9 +23,6 @@ publication_short: "PLOS ONE"
 
 abstract: Neuroscientific studies aim to find an accurate and reliable brain Effective Connectome (EC). Although current EC discovery methods have contributed to our understanding of brain organization, their performances are severely constrained by the short sample size and poor temporal resolution of fMRI data, and high dimensionality of the brain connectome. By leveraging the DTI data as prior knowledge, we introduce two Bayesian causal discovery frameworks -the Bayesian GOLEM (BGOLEM) and Bayesian FGES (BFGES) methods- that offer significantly more accurate and reliable ECs and address the shortcomings of the existing causal discovery methods in discovering ECs based on only fMRI data. Moreover, to numerically assess the improvement in the accuracy of ECs with our method on empirical data, we introduce the Pseudo False Discovery Rate (PFDR) as a new computational accuracy metric for causal discovery in the brain. Through a series of simulation studies on synthetic and hybrid data (combining DTI from the Human Connectome Project (HCP) subjects and synthetic fMRI), we demonstrate the effectiveness of our proposed methods and the reliability of the introduced metric in discovering ECs. By employing the PFDR metric, we show that our Bayesian methods lead to significantly more accurate results compared to the traditional methods when applied to the Human Connectome Project (HCP) data. Additionally, we measure the reproducibility of discovered ECs using the Rogers-Tanimoto index for test-retest data and show that our Bayesian methods provide significantly more reliable ECs than traditional methods. Overall, our study’s numerical and visual results highlight the potential for these frameworks to significantly advance our understanding of brain functionality.
 
-tags:
-- Source Themes
-featured: false
 
 # links:
 # - name: ""
@@ -35,5 +32,3 @@ url_pdf: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.02894
 
 ---
 
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://wowchemy.com/docs/content/writing-markdown-latex/).
