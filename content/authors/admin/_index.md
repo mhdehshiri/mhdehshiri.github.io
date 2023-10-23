@@ -56,10 +56,10 @@ social:
     link: https://scholar.google.com/citations?user=e1vr7g8AAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/mhdehshiri
   - icon: linkedin
     icon_pack: fab
-    link: linkedin.com/in/mehdi-dehshiri
+    link:  https://linkedin.com/in/mehdi-dehshiri
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
