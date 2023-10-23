@@ -54,27 +54,32 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+        - title: Research Assistant 
+          company: Computational Modeling and Machine Learning Lab. at the University of Tehran
+          company_url: 'https://ece.ut.ac.ir/en/%D9%85%D8%AF%D9%84%D8%B3%D8%A7%D8%B2%DB%8C-%D9%85%D8%AD%D8%A7%D8%B3%D8%A8%D8%A7%D8%AA%DB%8C-%D9%88-%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C-%D9%85%D8%A7%D8%B4%DB%8C%D9%861'
+          location: Tehran, Iran
+          date_start: '2021-10-01'
           date_end: ''
           description: |2-
-              Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+              * Research, Implementation, and development on Causal Structure Learning methods e.g. GES, PC(using Kernel-based Conditional Independence Test), Golem, Notears, DAGMA.
+              * Solid theoretical background with hands-on experience on identifiable representation learning methods e.g. nonlinear ICA, iVAE(identifiable Variational Autoencoder), non-factorized-iVAE, CCL(connectivity contrastive learning for multimodal causal discovery).
+              * Research and Implementation of domain generalization methods e.g. Causal Matching, SelfReg.
+        - title: Research Assistant
+          company: Advanced Robotics and Automated Systems (ARAS) at K. N. Toosi University of Technology
+          company_url: 'https://aras.kntu.ac.ir/'
+          location: Tehran, Iran
+          date_start: '2021-06-01'
+          date_end: '2022-01-01'
+          description: Sales Prediction of Kalana stores products using Random Forest and graphical user interface design for the program.
+
+        - title: Research Assistant
+          company: Advanced Process Automation and Control (APAC) at K. N. Toosi University of Technology
+          company_url: 'https://apac.ee.kntu.ac.ir/'
+          location: Tehran, Iran
+          date_start: '2018-06-01'
+          date_end: '2020-12-01'
+          description: Alarm Management using Bidirectional LSTM for VS.94 Turbine.
     design:
       columns: '2'
   - block: collection
