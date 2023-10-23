@@ -92,19 +92,4 @@ sections:
     design:
       columns: '2'
       view: citation
-  - block: contact
-    id: contact
-    content:
-      title: Contact
-      # Contact (add or remove contact options as necessary)
-      email: mhdhshri@gmail.com
-      phone: +98 9137799512
-      contact_links:
-        - icon: skype
-          icon_pack: fab
-          name: Skype Me
-          link: 'live:dehshiri.mahdi'
-        - icon: video
-          icon_pack: fas
-          name: Zoom Me
-          link: 'https://zoom.com'
+
