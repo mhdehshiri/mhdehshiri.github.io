@@ -23,9 +23,6 @@ publication_short: "PLOS ONE"
 
 abstract: Neuroscientific studies aim to find an accurate and reliable brain Effective Connectome (EC). Although current EC discovery methods have contributed to our understanding of brain organization, their performances are severely constrained by the short sample size and poor temporal resolution of fMRI data, and high dimensionality of the brain connectome. By leveraging the DTI data as prior knowledge, we introduce two Bayesian causal discovery frameworks -the Bayesian GOLEM (BGOLEM) and Bayesian FGES (BFGES) methods- that offer significantly more accurate and reliable ECs and address the shortcomings of the existing causal discovery methods in discovering ECs based on only fMRI data. Moreover, to numerically assess the improvement in the accuracy of ECs with our method on empirical data, we introduce the Pseudo False Discovery Rate (PFDR) as a new computational accuracy metric for causal discovery in the brain. Through a series of simulation studies on synthetic and hybrid data (combining DTI from the Human Connectome Project (HCP) subjects and synthetic fMRI), we demonstrate the effectiveness of our proposed methods and the reliability of the introduced metric in discovering ECs. By employing the PFDR metric, we show that our Bayesian methods lead to significantly more accurate results compared to the traditional methods when applied to the Human Connectome Project (HCP) data. Additionally, we measure the reproducibility of discovered ECs using the Rogers-Tanimoto index for test-retest data and show that our Bayesian methods provide significantly more reliable ECs than traditional methods. Overall, our study’s numerical and visual results highlight the potential for these frameworks to significantly advance our understanding of brain functionality.
 
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
 tags:
 - Source Themes
 featured: false
@@ -35,25 +32,7 @@ featured: false
 #   url: ""
 url_pdf: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0289406
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: ''
-  focal_point: ""
-  preview_only: false
 
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects: []
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
 ---
 
 
