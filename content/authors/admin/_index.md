@@ -35,55 +35,13 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MSc in Electrical and Biomedical Engineering
+      institution: University of Tehran
+      year: 2022-present
+    - course: BSc in Electrical Engineering ‑ Control Engineering
+      institution: K. N. Toosi University of Technology
+      year: 2021
 
-# Skills
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-skills:
-  - name: Technical
-    items:
-    - name: Python
-      description: ''
-      percent: 80
-      icon: python
-      icon_pack: fab
-    - name: Data Science
-      description: ''
-      percent: 100
-      icon: chart-line
-      icon_pack: fas
-    - name: SQL
-      description: ''
-      percent: 40
-      icon: database
-      icon_pack: fas
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera-retro
-        icon_pack: fas
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -92,13 +50,7 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
+    link: mhdhshri@gmail.com
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?user=e1vr7g8AAAAJ&hl=en
@@ -107,7 +59,7 @@ social:
     link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: linkedin.com/in/mehdi-dehshiri
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -119,5 +71,5 @@ social:
 highlight_name: true
 ---
 
-I am a is a master student at the MLCM Lab. my research interests include causal structure learning , causal representation learning. 
-{style="text-align: justify;"}
+I am currently a Master's student in the ECE department at the University of Tehran. I am actively engaged in research within the Machine Learning and Computational Modeling Lab, 
+under the supervision of <a href="https://scholar.google.com/citations?user=FTcata0AAAAJ&hl=en" target="_blank"> Babak Nadjar Araabi</a> and <a href="https://scholar.google.ca/citations?user=Lc1LZWIAAAAJ&hl=en" target="_blank"> Hamid Soltanian-Zadeh</a>, where my Master's thesis focuses on developing causal discovery methods to extract brain-effective connectomes. Moreover, I am working on <a>identifiablity</a> and <a>Causal representation learning</a> to build more robust models for domain generalization. {style="text-align: justify;"}
