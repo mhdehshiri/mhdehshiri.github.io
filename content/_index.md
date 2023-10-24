@@ -82,6 +82,17 @@ sections:
           description: Alarm Management using Bidirectional LSTM for VS.94 Turbine.
     design:
       columns: '2'
+   - block: collection
+    id: featured
+    content:
+      title: Publications
+      filters:
+        folders:
+          - publication
+        featured_only: true
+    design:
+      columns: '2'
+      view: card
   - block: collection
     content:
       title: Publications
