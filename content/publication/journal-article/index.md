@@ -1,10 +1,13 @@
 ---
-title: "An example journal article"
+title: "Brain effective connectome based on fMRI and DTI data: Bayesian causal learning and assessment"
 authors:
-- admin
-- Robert Ford
-date: "2015-09-01T00:00:00Z"
-doi: ""
+- Abdolmahdi Bagheri
+- <span>Mahdi Dehshiri</span>
+- Yamin Bagheri
+- Alireza Akhondi-Asl
+- Babak Nadjar Araabi
+date: "2023-08-18"
+doi: "https://doi.org/10.1371/journal.pone.0289406"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-08-18"
