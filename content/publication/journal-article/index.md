@@ -2,7 +2,7 @@
 title: "Brain effective connectome based on fMRI and DTI data: Bayesian causal learning and assessment"
 authors:
 - Abdolmahdi Bagheri
-- admin
+- <big>Mahdi Dehshiri</big>
 - Yamin Bagheri
 - Alireza Akhondi-Asl
 - Babak Nadjar Araabi
