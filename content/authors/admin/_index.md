@@ -3,7 +3,7 @@
 title: 
 
 # Name pronunciation (optional)
-name_pronunciation: Mahdi dehshiri
+name_pronunciation: Mahdi Dehshiri
 
 # Full name (for SEO)
 first_name: Mahdi
