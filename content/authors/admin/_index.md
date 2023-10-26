@@ -31,6 +31,7 @@ interests:
   - Causal structure learning 
   - Causal Representation learning 
   - Bayesian Statistics
+  - Domain generalization 
 
 # Education to show in About widget
 education:
