@@ -39,7 +39,7 @@ education:
     - course: MSc in Electrical and Biomedical Engineering
       institution: University of Tehran
       year: 2022-present
-    - course: BSc in Electrical Engineering ‑ Control Engineering
+    - course: BSc in Electrical and Control Engineering
       institution: K. N. Toosi University of Technology
       year: 2021
 
