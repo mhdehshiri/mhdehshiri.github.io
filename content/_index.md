@@ -8,7 +8,7 @@ sections:
   - block: hero
     demo: true # Only display this section in the Wowchemy demo site
     content:
-      title: Hugo Academic Theme
+      title: Mahdi Dehshiri
       image:
         filename: hero-academic.png
       cta:
