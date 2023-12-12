@@ -62,9 +62,9 @@ sections:
           date_end: ''
           description: |2-
 
-              * Research, Implementation, and development on Causal Structure Learning methods e.g. GES, PC(using Kernel-based Conditional Independence Test), Golem, Notears, DAGMA.
-              * Solid theoretical background with hands-on experience on identifiable representation learning methods e.g. nonlinear ICA, iVAE(identifiable Variational Autoencoder), non-factorized-iVAE, CCL(connectivity contrastive learning for multimodal causal discovery).
-              * Research and Implementation of domain generalization methods e.g. Causal Matching, SelfReg.
+              * Solid theoretical background with hands‑on experience on Identifiability and causal representation learning methods.
+              * Research, Implementation, and development on Causal Structure Learning methods.
+              * Research and Implementation of domain generalization methods.
         - title: Research Assistant
           company: Advanced Robotics and Automated Systems (ARAS) at K. N. Toosi University of Technology
           company_url: 'https://aras.kntu.ac.ir/'
