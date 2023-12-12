@@ -29,9 +29,9 @@ bio: My research interests include Causality and Causal representation learning
 # Interests to show in About widget
 interests:
   - Causal structure learning 
-  - Causal Representation learning 
+  - Identifiable Representation learning 
+  - Trustworthy ML
   - Bayesian Statistics
-  - Domain generalization 
 
 # Education to show in About widget
 education:
