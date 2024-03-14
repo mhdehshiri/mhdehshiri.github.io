@@ -30,8 +30,6 @@ abstract: Neuroscientific studies aim to find an accurate and reliable brain Eff
 url_pdf: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0289406
 
 
----
-
 title: "Algorithmic Identification of Essential Exogenous Nodes for Causal Sufficiency in Brain Network"
 authors:
 - Abdolmahdi Bagheri
