@@ -1,15 +1,12 @@
 ---
-title: 'Algorithmic Identification of Essential Exogenous Nodes for Causal Sufficiency in Brain Networks'
+title: 'An example conference paper'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Abdolmahdi Bagheri*
-  - Mahdi Dehshiri*
-  - Yamin Bagheri
-  - Alireza Akhondi-Asl
-  - Babak Nadjar Araabi
+  - admin
+  - Robert Ford
 
 # Author notes (optional)
 author_notes:
